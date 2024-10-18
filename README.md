@@ -6,7 +6,7 @@ Two of the most respected certifications in the cybersecurity domain are the Com
 
 ## Security+ Certification 
 
-# Overview 
+### Overview 
 
 CompTIA Security+ is an entry-level certification that validates foundational skills and knowledge in information security. It is globally recognized and provides a strong base for anyone starting their career in cybersecurity. 
 
