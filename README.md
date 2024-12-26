@@ -1,4 +1,4 @@
-# Comprehensive-Guide-to-Security-and-CISSP-Trainings-and-Certification-Paths-
+# Comprehensive Guide to Security and CISSP Trainings and Certification Paths
 
 ## Introduction 
 
